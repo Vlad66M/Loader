@@ -1,0 +1,317 @@
+.container {
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loader-container {
+    display: flex;
+}
+
+.letter-container {
+    margin: 6px 0 0 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.letter {
+    width: 20px;
+    height: 30px;
+    text-align: center;
+
+    border-radius: 15px;
+
+    animation-duration: 7s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-out;
+}
+
+.letter1 {
+    animation-name: letter1-animation;
+}
+
+.letter2 {
+    animation-name: letter2-animation;
+}
+
+.letter3 {
+    animation-name: letter3-animation;
+}
+
+.letter4 {
+    animation-name: letter4-animation;
+}
+
+.letter5 {
+    margin: 0;
+    /* animation-name: letter5-animation; */
+}
+
+.letter6 {
+    animation-name: letter6-animation;
+}
+
+.letter7 {
+    animation-name: letter7-animation;
+}
+
+.letter8 {
+    animation-name: letter8-animation;
+}
+
+.letter9 {
+    animation-name: letter9-animation;
+}
+
+.letter10 {
+    animation-name: letter10-animation;
+}
+
+.letter11 {
+    animation-name: letter11-animation;
+}
+
+.letter12 {
+    animation-name: letter12-animation;
+}
+
+.letter13 {
+    animation-name: letter13-animation;
+}
+
+@keyframes letter1-animation {
+    from {background-color: white;}
+    7% {background-color: rgb(136, 165, 174);}
+    14% {background-color: white;}
+    21% {background-color: white;}
+    28% {background-color: white;}
+    35% {background-color: white;}
+    42% {background-color: white;}
+    49% {background-color: white;}
+    56% {background-color: white;}
+    63% {background-color: white;}
+    70% {background-color: white;}
+    77% {background-color: white;}
+    84% {background-color: white;}
+    93% {background-color: white;}
+    to {background-color: white;}
+}
+
+@keyframes letter2-animation {
+    from {background-color: white;}
+    7% {background-color: white;}
+    14% {background-color: rgb(136, 165, 174);}
+    21% {background-color: white;}
+    28% {background-color: white;}
+    35% {background-color: white;}
+    42% {background-color: white;}
+    49% {background-color: white;}
+    56% {background-color: white;}
+    63% {background-color: white;}
+    70% {background-color: white;}
+    77% {background-color: white;}
+    84% {background-color: white;}
+    93% {background-color: white;}
+    to {background-color: white;}
+}
+
+@keyframes letter3-animation {
+    from {background-color: white;}
+    7% {background-color: white;}
+    14% {background-color: white;}
+    21% {background-color: rgb(136, 165, 174);}
+    28% {background-color: white;}
+    35% {background-color: white;}
+    42% {background-color: white;}
+    49% {background-color: white;}
+    56% {background-color: white;}
+    63% {background-color: white;}
+    70% {background-color: white;}
+    77% {background-color: white;}
+    84% {background-color: white;}
+    93% {background-color: white;}
+    to {background-color: white;}
+}
+
+@keyframes letter4-animation {
+    from { background-color: white; }
+    7% { background-color: white; }
+    14% { background-color: white;}
+    21% {background-color: white;}
+    28% {background-color: rgb(136, 165, 174);}
+    35% {background-color: white;}
+    42% {background-color: white;}
+    49% {background-color: white;}
+    56% {background-color: white;}
+    63% {background-color: white;}
+    70% {background-color: white;}
+    77% {background-color: white;}
+    84% {background-color: white;}
+    93% {background-color: white;}
+    to {background-color: white;}
+}
+
+@keyframes letter5-animation {
+    from { background-color: white; }
+    7% { background-color: white; }
+    14% { background-color: white;}
+    21% {background-color: white;}
+    28% {background-color: white;}
+    35% {background-color: rgb(136, 165, 174);}
+    42% {background-color: white;}
+    49% {background-color: white;}
+    56% {background-color: white;}
+    63% {background-color: white;}
+    70% {background-color: white;}
+    77% {background-color: white;}
+    84% {background-color: white;}
+    93% {background-color: white;}
+    to {background-color: white;}
+}
+
+@keyframes letter6-animation {
+    from { background-color: white; }
+    7% { background-color: white; }
+    14% { background-color: white;}
+    21% {background-color: white;}
+    28% {background-color: white;}
+    35% {background-color: white;}
+    42% {background-color: rgb(136, 165, 174);}
+    49% {background-color: white;}
+    56% {background-color: white;}
+    63% {background-color: white;}
+    70% {background-color: white;}
+    77% {background-color: white;}
+    84% {background-color: white;}
+    93% {background-color: white;}
+    to {background-color: white;}
+}
+
+@keyframes letter7-animation {
+    from { background-color: white; }
+    7% { background-color: white; }
+    14% { background-color: white;}
+    21% {background-color: white;}
+    28% {background-color: white;}
+    35% {background-color: white;}
+    42% {background-color: white;}
+    49% {background-color: rgb(136, 165, 174);}
+    56% {background-color: white;}
+    63% {background-color: white;}
+    70% {background-color: white;}
+    77% {background-color: white;}
+    84% {background-color: white;}
+    93% {background-color: white;}
+    to {background-color: white;}
+}
+
+@keyframes letter8-animation {
+    from { background-color: white; }
+    7% { background-color: white; }
+    14% { background-color: white;}
+    21% {background-color: white;}
+    28% {background-color: white;}
+    35% {background-color: white;}
+    42% {background-color: white;}
+    49% {background-color: white;}
+    56% {background-color: rgb(136, 165, 174);}
+    63% {background-color: white;}
+    70% {background-color: white;}
+    77% {background-color: white;}
+    84% {background-color: white;}
+    93% {background-color: white;}
+    to {background-color: white;}
+}
+
+@keyframes letter9-animation {
+    from { background-color: white; }
+    7% { background-color: white; }
+    14% { background-color: white;}
+    21% {background-color: white;}
+    28% {background-color: white;}
+    35% {background-color: white;}
+    42% {background-color: white;}
+    49% {background-color: white;}
+    56% {background-color: white;}
+    63% {background-color: rgb(136, 165, 174);}
+    70% {background-color: white;}
+    77% {background-color: white;}
+    84% {background-color: white;}
+    93% {background-color: white;}
+    to {background-color: white;}
+}
+
+@keyframes letter10-animation {
+    from { background-color: white; }
+    7% { background-color: white; }
+    14% { background-color: white;}
+    21% {background-color: white;}
+    28% {background-color: white;}
+    35% {background-color: white;}
+    42% {background-color: white;}
+    49% {background-color: white;}
+    56% {background-color: white;}
+    63% {background-color: white;}
+    70% {background-color: rgb(136, 165, 174);}
+    77% {background-color: white;}
+    84% {background-color: white;}
+    93% {background-color: white;}
+    to {background-color: white;}
+}
+
+@keyframes letter11-animation {
+    from { background-color: white; }
+    7% { background-color: white; }
+    14% { background-color: white;}
+    21% {background-color: white;}
+    28% {background-color: white;}
+    35% {background-color: white;}
+    42% {background-color: white;}
+    49% {background-color: white;}
+    56% {background-color: white;}
+    63% {background-color: white;}
+    70% {background-color: white;}
+    77% {background-color: rgb(136, 165, 174);}
+    84% {background-color: white;}
+    93% {background-color: white;}
+    to {background-color: white;}
+}
+
+@keyframes letter12-animation {
+    from { background-color: white; }
+    7% { background-color: white; }
+    14% { background-color: white;}
+    21% {background-color: white;}
+    28% {background-color: white;}
+    35% {background-color: white;}
+    42% {background-color: white;}
+    49% {background-color: white;}
+    56% {background-color: white;}
+    63% {background-color: white;}
+    70% {background-color: white;}
+    77% {background-color: white;}
+    84% {background-color: rgb(136, 165, 174);}
+    93% {background-color: white;}
+    to {background-color: white;}
+}
+
+@keyframes letter13-animation {
+    from { background-color: white; }
+    7% { background-color: white; }
+    14% { background-color: white;}
+    21% {background-color: white;}
+    28% {background-color: white;}
+    35% {background-color: white;}
+    42% {background-color: white;}
+    49% {background-color: white;}
+    56% {background-color: white;}
+    63% {background-color: white;}
+    70% {background-color: white;}
+    77% {background-color: white;}
+    84% {background-color: white;}
+    93% {background-color: rgb(136, 165, 174);}
+    to {background-color: white;}
+}
+
